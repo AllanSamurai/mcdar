@@ -1,1 +1,0 @@
-Esse aplicativo de demonstração apenas funciona hospedado em http ou https.
